@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a software engineer currently doing my Master in CS at  [H-BRS](https://www.h-brs.de)
 
 <!--
 **yuru-baku/yuru-baku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
